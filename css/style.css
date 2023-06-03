@@ -1,0 +1,46 @@
+.bg-gradient-tec{
+
+    background-color: #ab0033;
+}
+
+
+.btn-primary-tec {
+    color: #fff;
+    background-color: #ab0033;
+    border-color: #ab0033;
+}
+
+
+.btn-secondary-tec {
+   width: 100%;
+}
+
+
+.bg-login-image-tec {
+    background: url(/documentos/TEc.png);
+    background-position: center;
+    background-size: cover
+}
+
+.bg-register-image-tec {
+    background: url(/documentos/TEc.png);
+    background-position: center;
+    background-size: cover
+}
+
+.formtitulo{
+    text-align: center;
+    padding-bottom: 15px;
+
+}
+.container-fluid  label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px; /* Tamaño de fuente más grande */
+}
+
+.btn-enviar{
+    text-align: center;
+    width: 150px;
+    
+}
